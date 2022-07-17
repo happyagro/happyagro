@@ -30,4 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/10251060?s=280&v=4" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/7658037?s=280&v=4" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="json" alt="json" width="40" height="40"/>&nbsp;
 </div>
